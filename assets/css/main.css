@@ -2,11 +2,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400|Passion+One:400");
 
-/*
-	Full Motion by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 
 /* Reset */
 
@@ -948,7 +944,7 @@
 		display: inline-block;
 		font-weight: 400;
 		height: 2.85em;
-		margin:15px;
+		margin:30px;
 		line-height: 2.95em;
 		padding: 0 1.5em;
 		text-align: center;
@@ -1086,6 +1082,7 @@
 			button,
 			.button {
 				padding: 0;
+				width: 100px;
 			}
 
 		}
