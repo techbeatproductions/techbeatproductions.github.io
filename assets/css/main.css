@@ -1438,7 +1438,7 @@
 	width: auto;
 	margin-top: -22px;
 	padding: 16px;
-	color: orangered;
+	color: orange;
 	font-weight: bold;
 	font-size: 18px;
 	transition: 0.6s ease;
@@ -1459,7 +1459,7 @@
   
   /* Caption text */
   .text {
-	color:orangered;
+	color:orange;
 	font-size: 15px;
 	padding: 8px 12px;
 	position: absolute;
@@ -1470,7 +1470,7 @@
   
   /* Number text (1/3 etc) */
   .numbertext {
-	color: orangered;
+	color: orange;
 	font-size: 12px;
 	padding: 8px 12px;
 	position: absolute;
@@ -1483,14 +1483,14 @@
 	height: 15px;
 	width: 15px;
 	margin: 0 2px;
-	background-color:black;
+	background-color:orangered;
 	border-radius: 50%;
 	display: inline-block;
 	transition: background-color 0.6s ease;
   }
   
   .active, .dot:hover {
-	background-color: black;
+	background-color: orangered;
   }
   
   /* Fading animation */
