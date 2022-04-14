@@ -1338,6 +1338,15 @@
 
 		}
 
+		@media screen and (max-width: 480px) {
+			#banner {
+				min-height: 0;
+				padding: 6em 2em 4em 2em;
+
+			}
+			
+		}
+
 		body.is-loading #banner:before {
 			opacity: 1;
 		}
