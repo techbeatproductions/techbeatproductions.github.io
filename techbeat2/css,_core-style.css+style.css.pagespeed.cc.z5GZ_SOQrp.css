@@ -92,7 +92,7 @@ img {
     height: auto;
     max-width: 100%;
     content-visibility: auto;
-    background-color: #eee;
+    background-color: black;
 }
 
 
@@ -230,6 +230,7 @@ img {
 .mobile-nav .techbeat-navbar-brand a {
     display: block;
     max-width: 70px;
+    background-color: black;
 }
 
 .mobile-nav .techbeat-navbar-toggler {
@@ -471,11 +472,6 @@ img {
     display: block;
 }
 
-.main-content-wrapper .header-area .logo {
-    margin-bottom: 50px;
-    display: block;
-}
-
 .main-content-wrapper .header-area .logo a img {
     object-fit: cover;
     content-visibility: auto;
@@ -560,7 +556,7 @@ img {
 .main-content-wrapper .header-area .cart-fav-search a img {
     margin-right: 10px;
     content-visibility: auto;
-    background-color: #eee;
+    background-color: black;
 }
 
 .main-content-wrapper .header-area .cart-fav-search a:hover,
