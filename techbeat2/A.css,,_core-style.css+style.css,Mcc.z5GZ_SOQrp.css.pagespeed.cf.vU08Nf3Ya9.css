@@ -81,7 +81,6 @@ img {
     height: auto;
     max-width: 100%;
     content-visibility: auto;
-    background-color: #eee;
 }
 
 .mt-30 {
@@ -137,7 +136,8 @@ img {
 .bg-img {
     background-position: center center;
     background-size: cover;
-    background-repeat: no-repeat content-visibility: auto;
+    background-repeat: no-repeat;
+    content-visibility: auto;
     background-color: #eee;
 }
 
@@ -197,12 +197,14 @@ img {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 180px;
     flex: 0 0 180px;
-    max-width: 180px
+    max-width: 180px;
+    background-color: black;
 }
 
 .mobile-nav .techbeat-navbar-brand a {
     display: block;
-    max-width: 100px
+    max-width: 100px;
+    background-color: black;
 }
 
 .mobile-nav .techbeat-navbar-toggler {
@@ -345,7 +347,7 @@ img {
 @media only screen and (max-width:767px) {
     .main-content-wrapper {
         margin-top: 70px;
-        z-index: 100
+        z-index: 100;
     }
 }
 
@@ -589,7 +591,8 @@ img {
         flex: 0 0 180px;
         width: 180px;
         max-width: 180px;
-        padding: 100px 15px
+        padding: 100px 15px;
+        background-color: black;
     }
 }
 
