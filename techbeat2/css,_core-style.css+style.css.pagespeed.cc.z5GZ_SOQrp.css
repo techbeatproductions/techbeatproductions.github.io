@@ -91,6 +91,8 @@ ol li {
 img {
     height: auto;
     max-width: 100%;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 
@@ -162,6 +164,8 @@ img {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .navbar-toggler {
@@ -544,6 +548,8 @@ img {
 
 .main-content-wrapper .header-area .cart-fav-search a img {
     margin-right: 10px;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .main-content-wrapper .header-area .cart-fav-search a:hover,
@@ -1241,6 +1247,8 @@ img {
 
 .single-products-catagory a img {
     width: 100%;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .single-products-catagory .hover-content {
@@ -1308,12 +1316,16 @@ img {
     position: relative;
     z-index: 1;
     overflow: hidden;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .single-product-wrapper .product-img img {
     width: 100%;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .single-product-wrapper .product-img .hover-img {
@@ -1326,6 +1338,8 @@ img {
     z-index: 10;
     opacity: 0;
     visibility: hidden;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .single-product-wrapper .product-description {
@@ -1369,6 +1383,8 @@ img {
 .single-product-wrapper:hover .product-img .hover-img {
     opacity: 1;
     visibility: visible;
+    content-visibility: auto;
+    background-color: #eee;
 }
 
 .pagination {
@@ -1816,3 +1832,5 @@ img {
 /* ---------------------------------------
     ##### - PLACE YOUR CUSTOM CSS HERE - #####
     --------------------------------------- */
+
+--------------------------------------- */
