@@ -434,7 +434,7 @@ img {
 .main-content-wrapper .header-area .logo a img {
     object-fit: cover;
     content-visibility: auto;
-    background-color: #eee;
+    background-color: black;
 }
 
 .main-content-wrapper .header-area .techbeat-nav li a {
