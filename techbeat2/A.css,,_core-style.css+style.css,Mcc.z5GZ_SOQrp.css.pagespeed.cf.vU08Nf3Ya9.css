@@ -515,11 +515,6 @@ img {
     color: orangered;
 }
 
-.main-content-wrapper .header-area .cart-fav-search a img {
-    margin-right: 10px content-visibility: auto;
-    background-color: #eee;
-}
-
 .main-content-wrapper .header-area .cart-fav-search a:hover,
 .main-content-wrapper .header-area .cart-fav-search a:focus {
     color: orangered;
@@ -1192,12 +1187,18 @@ img {
     }
 }
 
+.techbeat-pro-catagory {
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+
 .single-products-catagory a {
     display: block;
     width: 100%;
     height: 100%;
     position: relative;
-    z-index: 10
+    z-index: 20
 }
 
 .single-products-catagory a::after {
@@ -1216,7 +1217,8 @@ img {
 }
 
 .single-products-catagory a img {
-    width: 100% content-visibility: auto;
+    width: 100%;
+    content-visibility: auto;
     background-color: #eee;
 }
 
