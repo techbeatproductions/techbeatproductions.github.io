@@ -5,6 +5,8 @@
 
     // :: 1.0 Masonary Gallery Active Code
 
+
+    /*
     var proCata = $('.techbeat-pro-catagory');
     var singleProCata = ".single-products-catagory";
 
@@ -19,7 +21,7 @@
             });
         });
     }
-
+*/
     // :: 2.1 Search Active Code
     var techbeatSearch = $('.search-nav');
     var searchClose = $('.search-close');
