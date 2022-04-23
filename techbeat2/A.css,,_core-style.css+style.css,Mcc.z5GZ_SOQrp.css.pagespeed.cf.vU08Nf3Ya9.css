@@ -1771,3 +1771,8 @@ img {
     border-radius: 0;
     background-color: black;
 }
+
+.card-img-top {
+    height: 60%;
+    width: 100%;
+}
