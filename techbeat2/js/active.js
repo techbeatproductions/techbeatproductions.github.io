@@ -22,17 +22,7 @@
         });
     }
 */
-    // :: 2.1 Search Active Code
-    var techbeatSearch = $('.search-nav');
-    var searchClose = $('.search-close');
 
-    techbeatSearch.on('click', function() {
-        $('body').toggleClass('search-wrapper-on');
-    });
-
-    searchClose.on('click', function() {
-        $('body').removeClass('search-wrapper-on');
-    });
 
     // :: 2.2 Mobile Nav Active Code
     var techbeatMobNav = $('.techbeat-navbar-toggler');

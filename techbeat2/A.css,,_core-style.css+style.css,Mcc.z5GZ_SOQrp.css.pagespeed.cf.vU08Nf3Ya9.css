@@ -522,7 +522,8 @@ img {
 
 .main-content-wrapper .header-area .social-info a {
     color: peachpuff;
-    display: inline-block
+    display: block;
+    z-index: 2;
 }
 
 .main-content-wrapper .header-area .social-info a i {
@@ -1769,8 +1770,4 @@ img {
     width: 100%;
     border-radius: 0;
     background-color: black;
-}
-
-background-color: black;
-
 }
