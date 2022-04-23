@@ -3327,4 +3327,4 @@ S.proxy = function(e, t) { var n, r, i; if ("string" == typeof t && (n = e[t], t
 var Vt = C.jQuery,
     Gt = C.$;
 return S.noConflict = function(e) { return C.$ === S && (C.$ = Gt), e && C.jQuery === S && (C.jQuery = Vt), S }, "undefined" == typeof e && (C.jQuery = C.$ = S), S
-});
+};;
